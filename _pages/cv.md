@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Molecular chemistry, Paul Sabatier University, 2015
+* M.S. in Theoretical chemistry and modeling, GitHub University, 2017
+* Ph.D in Version Control Theory, GitHub University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2018 -- June 2018 : Research intern
+  * Laboratoire de Chimie et Physique Quantique
+  * Duties included: Mise en évidence de discontinuités dans les surfaces d'énergie potentielle induites par les méthodes GW
+  * Supervisor: Pierre-François Loos
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2017 -- June 20117 : Research intern
+  * Laboratoire de Chimie et Physique Quantique
+  * Duties included: Étude théorique de la réactivité de complexes de nitrosyl
+  * Supervisor: Jean-Louis Helly
+
+* October 2014 -- December 2016 : Research intern
+  * Laboratoire de Chimie et Physique Quantique
+  * Duties included: Étude de la photolibération  de NO dans les complexes de Ruthénium
+  * Supervisor: Jean-Louis Helly
+* June 2014 : Private teacher
+  * Excelentia
+  * Duties included: Physics and chemistry at Hight Scool level
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Science
+  * Theoretical Chemistry 
+* Programing
+  * Fortran
+  * Python
+  * VB.net
+  * LaTeX
+* OS
+  * Windows
+  * Linux
+  * Mac OS
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
