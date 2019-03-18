@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Molecular chemistry, Paul Sabatier University, 2015
-* M.S. in Theoretical chemistry and modeling, GitHub University, 2017
-* Ph.D in Version Control Theory, GitHub University, 2021 (expected)
+* B.Sc. in Molecular chemistry, Paul Sabatier University, 2015
+* M.Sc. in Theoretical chemistry and modeling, Paul Sabatier University, 2017
+* Ph.D in Theoretical chemistry and computational modeling, Paul Sabatier University, 2021 (expected)
 
 Work experience
 ======
@@ -25,12 +25,12 @@ Work experience
 * May 2017 -- June 20117 : Research intern
   * Laboratoire de Chimie et Physique Quantique
   * Duties included: Étude théorique de la réactivité de complexes de nitrosyl
-  * Supervisor: Jean-Louis Helly
+  * Supervisor: Jean-Louis Heully
 
 * October 2014 -- December 2016 : Research intern
   * Laboratoire de Chimie et Physique Quantique
   * Duties included: Étude de la photolibération  de NO dans les complexes de Ruthénium
-  * Supervisor: Jean-Louis Helly
+  * Supervisor: Jean-Louis Heully
 * June 2014 : Private teacher
   * Excelentia
   * Duties included: Physics and chemistry at Hight Scool level

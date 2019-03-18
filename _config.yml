@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mickaël Véril"
 title_separator          : "-"
 name                     : &name "Mickaël Véril"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mickaël Véril"
   avatar           : "profile.png"
-  bio              : "PhD student"
+  bio              : "Ph.D student"
   location         : "Françe"
   employer         : "Paul Sabatier University"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "mickaël-véril-698609ab"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4542-7422"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
