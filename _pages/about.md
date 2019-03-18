@@ -12,7 +12,7 @@ redirect_from:
 
 My name is {{ site.author.name }}.
 
-I am a {{ site.author.bio }} in {{ site.author.employer }}
+I am a {{ site.author.bio }} at {{ site.author.employer }}
 
 This website is not ready but work in progress. it's based on [academicpages](https://github.com/academicpages/academicpages.github.io) template
 
