@@ -5,7 +5,7 @@ permalink: /publication/2018-02-21-Quantum-Package-2_0
 excerpt: 'Quantum Package is an open-source programming environment for quantum chemistry specially designed for wave function methods.'
 date: 2019-02-21
 venue: 'arXiv'
-paperurl: 'http://mveril.github.io/files/2019-02-21-Quantum-Package-2_0.pdf'
+paperurl: 'http://mveril.github.io/files/2019-04-23-Quantum-Package-2_0.pdf'
 citation: '&quot;Quantum Package 2.0&quot;
 
 Yann Garniron, Thomas Applencourt, Kevin Gasperich, Anouar Benali, Anthony Ferté, Julien Paquier, Barthélémy Pradines, Roland Assaraf, Peter Reinhardt, Julien Toulouse, Pierrette Barbaresco, Nicolas Renon, Grégoire David, Jean-Paul Malrieu, Mickaël Véril, Michel Caffarel, Pierre-François Loos, Emmanuel Giner, Anthony Scemama
