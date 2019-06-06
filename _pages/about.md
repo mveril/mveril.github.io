@@ -12,7 +12,10 @@ redirect_from:
 
 My name is {{ site.author.name }}.
 
-I am a {{ site.author.bio }} at {{ site.author.employer }}
+I am a {{ site.author.bio }} at {{ site.author.employer }} at the [Laboratoire de Chimie et Physique Quantique](http://www.lcpq.ups-tlse.fr).
 
-This website is not ready but work in progress. it's based on [academicpages](https://github.com/academicpages/academicpages.github.io) template
+I currently work on [Quantum Package](https://quantumpackage.github.io/qp2) and you can find the Coupled cluster plugin I'm currently working on [here](https://github.com/mveril/qp_plugins).
+You can try quantum package on the web with the [demo](https://quantumpackage.github.io/qp2/page/try) that I built. A presentation of the demo can be found [here](/talks/2019-04-11-gmo-www-qp).
+
+This website is based on [academicpages](https://github.com/academicpages/academicpages.github.io) template.
 
