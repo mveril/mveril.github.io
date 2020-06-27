@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+
+* October 2018 -- Today : PhD student
+  * Laboratoire de Chimie et Physique Quantique
+  * Supervisor: Pierre-François Loos
+
 * January 2018 -- June 2018 : Research intern
   * Laboratoire de Chimie et Physique Quantique
   * Duties included: Mise en évidence de discontinuités dans les surfaces d'énergie potentielle induites par les méthodes GW
@@ -38,7 +43,7 @@ Work experience
 Skills
 ======
 * Science
-  * Theoretical Chemistry 
+  * Theoretical Chemistry
 * Programing
   * C#
   * Fortran
