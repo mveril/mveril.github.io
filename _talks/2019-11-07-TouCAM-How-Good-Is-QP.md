@@ -1,5 +1,5 @@
 ---
-title: "How good is Quantum Package"
+title: "How good is Quantum Package ?"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-11-06-TouCAM-How-Good-Is-QP
