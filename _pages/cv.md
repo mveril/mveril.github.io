@@ -40,8 +40,10 @@ Skills
 * Science
   * Theoretical Chemistry 
 * Programing
+  * C#
   * Fortran
   * Python
+  * JavaScript
   * VB.net
   * LaTeX
 * OS
