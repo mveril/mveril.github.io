@@ -1,7 +1,7 @@
 ---
 title: "Private teaching in chemistry for the ST2S baccalaureate exam"
 collection: teaching
-type: "Hight school private tutoring"
+type: "High school private tutoring"
 permalink: /teaching/2014-private-tutoring-1
 venue: "Excellentia Cahors"
 date: 2014-06-07
