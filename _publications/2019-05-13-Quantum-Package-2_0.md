@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-05-13-Quantum-Package-2_0
 excerpt: 'Quantum Package is an open-source programming environment for quantum chemistry specially designed for wave function methods.'
 date: 2019-05-13
-venue: 'Journal of Chemical Theory and Computation<'
+venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'http://mveril.github.io/files/2019-05-13-Quantum-Package-2_0.pdf'
 citation: '&quot;Quantum Package 2.0&quot;
 
